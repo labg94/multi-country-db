@@ -1,0 +1,4 @@
+name: AR
+url: jdbc:mysql://localhost:3306/boss-ar
+username: root
+password: 123456
